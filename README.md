@@ -2,19 +2,19 @@
 _This GitHub repo hosts an RL-based Traffic Light Control System (TLCS) for optimizing intersections. Employing Reinforcement Learning, it adapts signal timings in real-time, reducing congestion and enhancing traffic efficiency._ 
 
 - **Normal Traffic Simulation**
-    - ![R1(Normal)](https://github.com/Saumyadeepm/RL-TrafficLight-Control-Adaptive-Traffic-Management/assets/100332918/50a5b852-ff4d-4cd9-99a3-192da41bab2f)
+    > ![R1(Normal)](https://github.com/Saumyadeepm/RL-TrafficLight-Control-Adaptive-Traffic-Management/assets/100332918/50a5b852-ff4d-4cd9-99a3-192da41bab2f)
 <br />
 
 - **Traffic Simulation By Accumulated Waiting Time**
-    - ![R2 (By Accumulated Waiting Time)](https://github.com/Saumyadeepm/RL-TrafficLight-Control-Adaptive-Traffic-Management/assets/100332918/614f1f14-0264-489f-b052-b48b086045fc)
+    > ![R2 (By Accumulated Waiting Time)](https://github.com/Saumyadeepm/RL-TrafficLight-Control-Adaptive-Traffic-Management/assets/100332918/614f1f14-0264-489f-b052-b48b086045fc)
 <br />
 
 - **Traffic Simulation On the Basis of Direction They Are Coming From**
-    - ![R3 (On the Basis of Direction They Are Coming From)](https://github.com/Saumyadeepm/RL-TrafficLight-Control-Adaptive-Traffic-Management/assets/100332918/09aaffab-2a2e-448e-9f00-2d9d36f8afe3)
+    > ![R3 (On the Basis of Direction They Are Coming From)](https://github.com/Saumyadeepm/RL-TrafficLight-Control-Adaptive-Traffic-Management/assets/100332918/09aaffab-2a2e-448e-9f00-2d9d36f8afe3)
 <br />
 
 - **Traffic Simulation On The Basis of Braking Gap**
-    - ![R4 (On the Basis of Braking Gap)](https://github.com/Saumyadeepm/RL-TrafficLight-Control-Adaptive-Traffic-Management/assets/100332918/0004f13b-b469-4193-8868-1750ee585a9b)
+    > ![R4 (On the Basis of Braking Gap)](https://github.com/Saumyadeepm/RL-TrafficLight-Control-Adaptive-Traffic-Management/assets/100332918/0004f13b-b469-4193-8868-1750ee585a9b)
 <br />
 
 ## Overview
